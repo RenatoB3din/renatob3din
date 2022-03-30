@@ -15,7 +15,10 @@
   <img align="center" alt="Re-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Re-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Re-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Re-pic" height="150" src="https://i.picasion.com/pic92/56a652e9f72200d1a35d288dd28f8c44.gif" border="2">
 </div>
+
+
 
 ##
   
