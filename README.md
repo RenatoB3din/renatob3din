@@ -1,7 +1,7 @@
 ## Olá, Bem-vindo ao estilo de vida de Renato Bedin!
 
-- 🔭 Estou trabalhando com JavaScript
-- 🌱 Estudando React, Java e Typescript
+- 🔭 Estou trabalhando com PHP
+- 🌱 Estudando CodeIgniter 3
 
 <div align="center">
   <a href="https://github.com/renatob3din">
